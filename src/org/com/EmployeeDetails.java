@@ -28,4 +28,10 @@ public class EmployeeDetails {
 		System.out.println("ram");
 
 	}
+	private void emp8() {
+		System.out.println("Athu onum illa da pumba");
+	}
+	private void emp9() {
+		System.out.println("override");
+	}
 	}
