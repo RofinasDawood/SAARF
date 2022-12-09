@@ -28,4 +28,12 @@ public class EmployeeDetails {
 		System.out.println("ram");
 
 	}
+	private void emp8() {
+	System.out.println("hari");
+
+	}
+	private void emp9() {
+		System.out.println("abu");
+
+	}
 	}
