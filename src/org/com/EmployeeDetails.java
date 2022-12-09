@@ -20,4 +20,12 @@ public class EmployeeDetails {
 	private void emp5() {
 		System.out.println("Loganadhan");
 
-} }
+} 
+	private void emp6() {
+		System.out.println("manikandan");
+	}
+	private void emp7() {
+		System.out.println("ram");
+
+	}
+	}
